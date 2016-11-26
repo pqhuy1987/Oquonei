@@ -2497,6 +2497,7 @@
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeam = JQNK74493B;
 						LastSwiftMigration = 0800;
+						ProvisioningStyle = Manual;
 					};
 					57A880DC1C0D43A500629E84 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -3831,6 +3832,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = JQNK74493B;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -3844,8 +3846,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = Oquonei;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.oquonei.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0a911db4-1e62-464e-a1a9-558e528f00e3";
+				PROVISIONING_PROFILE_SPECIFIER = Oquonei;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -3863,6 +3867,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = JQNK74493B;
@@ -3878,8 +3883,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = Oquonei;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.oquonei.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0a911db4-1e62-464e-a1a9-558e528f00e3";
+				PROVISIONING_PROFILE_SPECIFIER = Oquonei;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
