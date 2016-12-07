@@ -1589,19 +1589,19 @@
 		576570671BF388AD00F563B8 /* SKNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKNode.swift; sourceTree = "<group>"; };
 		5770E39C1C08B41800297E89 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		57726F551C1926910097FE0D /* dialog.nastazie.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = dialog.nastazie.wav; path = en.sounds/dialog.nastazie.wav; sourceTree = "<group>"; };
-		5779C46E1D935CFC004BD79B /* Oquonie Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquonie Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5779C46E1D935CFC004BD79B /* Oquon Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquon Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5779C4711D935CFC004BD79B /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		5779C4751D935CFC004BD79B /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 		578BFD871BF0E6D8006DAF1C /* Tile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tile.swift; path = "Oquonie AppleTV/Tile.swift"; sourceTree = "<group>"; };
 		578BFDFF1BF0EA52006DAF1C /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Settings.swift; path = "Oquonie AppleTV/Settings.swift"; sourceTree = "<group>"; };
 		579304911BF634E6005583CE /* letter.spell.blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = letter.spell.blank.png; path = en.assets/letter.spell.blank.png; sourceTree = "<group>"; };
 		57A4A2E71BFA1CBE0027E909 /* Dialog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dialog.swift; sourceTree = "<group>"; };
-		57A668471BEE9894007CDD8B /* Oquonie iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquonie iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		57A668471BEE9894007CDD8B /* Oquon iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquon iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A668631BEE98AA007CDD8B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "Oquonie AppleTV/AppDelegate.swift"; sourceTree = "<group>"; };
 		57A668651BEE98AA007CDD8B /* Game.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Game.sks; path = "Oquonie AppleTV/Game.sks"; sourceTree = "<group>"; };
 		57A668671BEE98AA007CDD8B /* MainGameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MainGameScene.swift; path = "Oquonie AppleTV/MainGameScene.swift"; sourceTree = "<group>"; };
 		57A668701BEE98AA007CDD8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		57A880DD1C0D43A500629E84 /* Oquonie AppleTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquonie AppleTV.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		57A880DD1C0D43A500629E84 /* Oquon AppleTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oquon AppleTV.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A880EA1C0D43A600629E84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/AppleTV.storyboard; sourceTree = "<group>"; };
 		57A880EE1C0D43A600629E84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		57C843E21BF2341100288847 /* iOS.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iOS.storyboard; sourceTree = "<group>"; };
@@ -1707,9 +1707,9 @@
 		03BBFAA9178A9E4E00E79C3D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				57A668471BEE9894007CDD8B /* Oquonie iOS.app */,
-				57A880DD1C0D43A500629E84 /* Oquonie AppleTV.app */,
-				5779C46E1D935CFC004BD79B /* Oquonie Stickers.app */,
+				57A668471BEE9894007CDD8B /* Oquon iOS.app */,
+				57A880DD1C0D43A500629E84 /* Oquon AppleTV.app */,
+				5779C46E1D935CFC004BD79B /* Oquon Stickers.app */,
 				5779C4711D935CFC004BD79B /* StickerPackExtension.appex */,
 			);
 			name = Products;
@@ -2406,9 +2406,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5779C46D1D935CFC004BD79B /* Oquonie Stickers */ = {
+		5779C46D1D935CFC004BD79B /* Oquon Stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5779C47E1D935CFC004BD79B /* Build configuration list for PBXNativeTarget "Oquonie Stickers" */;
+			buildConfigurationList = 5779C47E1D935CFC004BD79B /* Build configuration list for PBXNativeTarget "Oquon Stickers" */;
 			buildPhases = (
 				5779C46C1D935CFC004BD79B /* Resources */,
 				5779C47D1D935CFC004BD79B /* Embed App Extensions */,
@@ -2418,9 +2418,9 @@
 			dependencies = (
 				5779C4741D935CFC004BD79B /* PBXTargetDependency */,
 			);
-			name = "Oquonie Stickers";
+			name = "Oquon Stickers";
 			productName = "Oquonie Stickers";
-			productReference = 5779C46E1D935CFC004BD79B /* Oquonie Stickers.app */;
+			productReference = 5779C46E1D935CFC004BD79B /* Oquon Stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
 		5779C4701D935CFC004BD79B /* StickerPackExtension */ = {
@@ -2438,9 +2438,9 @@
 			productReference = 5779C4711D935CFC004BD79B /* StickerPackExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
-		57A668461BEE9894007CDD8B /* Oquonie iOS */ = {
+		57A668461BEE9894007CDD8B /* Oquon iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 57A6685A1BEE9894007CDD8B /* Build configuration list for PBXNativeTarget "Oquonie iOS" */;
+			buildConfigurationList = 57A6685A1BEE9894007CDD8B /* Build configuration list for PBXNativeTarget "Oquon iOS" */;
 			buildPhases = (
 				57A668431BEE9894007CDD8B /* Sources */,
 				57A668441BEE9894007CDD8B /* Frameworks */,
@@ -2450,14 +2450,14 @@
 			);
 			dependencies = (
 			);
-			name = "Oquonie iOS";
+			name = "Oquon iOS";
 			productName = "Oquonie iOS";
-			productReference = 57A668471BEE9894007CDD8B /* Oquonie iOS.app */;
+			productReference = 57A668471BEE9894007CDD8B /* Oquon iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		57A880DC1C0D43A500629E84 /* Oquonie AppleTV */ = {
+		57A880DC1C0D43A500629E84 /* Oquon AppleTV */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 57A880EF1C0D43A600629E84 /* Build configuration list for PBXNativeTarget "Oquonie AppleTV" */;
+			buildConfigurationList = 57A880EF1C0D43A600629E84 /* Build configuration list for PBXNativeTarget "Oquon AppleTV" */;
 			buildPhases = (
 				57A880D91C0D43A500629E84 /* Sources */,
 				57A880DA1C0D43A500629E84 /* Frameworks */,
@@ -2467,9 +2467,9 @@
 			);
 			dependencies = (
 			);
-			name = "Oquonie AppleTV";
+			name = "Oquon AppleTV";
 			productName = "Oquonie AppleTV";
-			productReference = 57A880DD1C0D43A500629E84 /* Oquonie AppleTV.app */;
+			productReference = 57A880DD1C0D43A500629E84 /* Oquon AppleTV.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -2497,7 +2497,7 @@
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeam = JQNK74493B;
 						LastSwiftMigration = 0800;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					57A880DC1C0D43A500629E84 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -2505,7 +2505,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 03BBFAA3178A9E4E00E79C3D /* Build configuration list for PBXProject "Oquonie" */;
+			buildConfigurationList = 03BBFAA3178A9E4E00E79C3D /* Build configuration list for PBXProject "Oquon" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -2518,9 +2518,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				57A668461BEE9894007CDD8B /* Oquonie iOS */,
-				57A880DC1C0D43A500629E84 /* Oquonie AppleTV */,
-				5779C46D1D935CFC004BD79B /* Oquonie Stickers */,
+				57A668461BEE9894007CDD8B /* Oquon iOS */,
+				57A880DC1C0D43A500629E84 /* Oquon AppleTV */,
+				5779C46D1D935CFC004BD79B /* Oquon Stickers */,
 				5779C4701D935CFC004BD79B /* StickerPackExtension */,
 			);
 		};
@@ -3832,9 +3832,9 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -3846,10 +3846,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.oquonei.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.VerrecieI.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0a911db4-1e62-464e-a1a9-558e528f00e3";
-				PROVISIONING_PROFILE_SPECIFIER = Oquonei;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -3867,10 +3867,10 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3883,10 +3883,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.oquonei.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.VerrecieI.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0a911db4-1e62-464e-a1a9-558e528f00e3";
-				PROVISIONING_PROFILE_SPECIFIER = Oquonei;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -3958,7 +3958,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		03BBFAA3178A9E4E00E79C3D /* Build configuration list for PBXProject "Oquonie" */ = {
+		03BBFAA3178A9E4E00E79C3D /* Build configuration list for PBXProject "Oquon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03BBFAC9178A9E4E00E79C3D /* Debug */,
@@ -3976,7 +3976,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5779C47E1D935CFC004BD79B /* Build configuration list for PBXNativeTarget "Oquonie Stickers" */ = {
+		5779C47E1D935CFC004BD79B /* Build configuration list for PBXNativeTarget "Oquon Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5779C4781D935CFC004BD79B /* Debug */,
@@ -3985,7 +3985,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		57A6685A1BEE9894007CDD8B /* Build configuration list for PBXNativeTarget "Oquonie iOS" */ = {
+		57A6685A1BEE9894007CDD8B /* Build configuration list for PBXNativeTarget "Oquon iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57A6685B1BEE9894007CDD8B /* Debug */,
@@ -3994,7 +3994,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		57A880EF1C0D43A600629E84 /* Build configuration list for PBXNativeTarget "Oquonie AppleTV" */ = {
+		57A880EF1C0D43A600629E84 /* Build configuration list for PBXNativeTarget "Oquon AppleTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57A880F01C0D43A600629E84 /* Debug */,

@@ -33,7 +33,7 @@ class SplashGameScene: SKScene
 		logo = SKLabelNode(fontNamed: "Alte Haas Grotesk Bold")
 		logo.position = CGPoint(x:self.frame.midX,y:self.frame.midY - (rabbitSize * 8))
 		logo.horizontalAlignmentMode = .center
-		logo.text = "TwokingStudio"
+		logo.text = "@TwokingStudio"
 		logo.fontSize = 20
 		logo.alpha = 0
 		addChild(logo)
